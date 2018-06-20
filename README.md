@@ -1,0 +1,1 @@
+# AMG8833-TFT2.8-D1mini

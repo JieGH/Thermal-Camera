@@ -17,8 +17,11 @@ The schematic and PCB are shown in here:
 ![overview](https://raw.githubusercontent.com/JieGH/AMG8833-TFT2.8-D1mini/master/Pics/schematic.png)
 
 The actual enclosure and the circuit inside are shown in here:
-![overview](https://raw.githubusercontent.com/JieGH/AMG8833-TFT2.8-D1mini/master/Pics/Capture.jpg)!
-[overview](https://raw.githubusercontent.com/JieGH/AMG8833-TFT2.8-D1mini/master/Pics/Capture_2.jpg)
+
+![overview](https://raw.githubusercontent.com/JieGH/AMG8833-TFT2.8-D1mini/master/Pics/Capture.jpg)
+![overview](https://raw.githubusercontent.com/JieGH/AMG8833-TFT2.8-D1mini/master/Pics/Capture_2.jpg)
+
+
 Repository Contents
 -------------------
 

@@ -1,6 +1,6 @@
 # AMG8833-TFT2.8-D1mini
 
-This project is a low cost thermal camera inspired by Ruiz Brothers (https://learn.adafruit.com/thermal-camera-with-display/overview). The different between my project and his are 
+This project is a low cost thermal camera inspired by Ruiz Brothers (https://learn.adafruit.com/thermal-camera-with-display/overview). The differences between my project and his are 
 1) the touch capability added to change the temperture range that the heat map display, 
 2) the highest, lowest, average and the temperture differential of two peak temp will print in the screen.
 3) use a 2.8 TFT screen with touch capability

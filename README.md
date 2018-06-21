@@ -5,9 +5,9 @@ This project is a low cost thermal camera inspired by Ruiz Brothers (https://lea
 2) the highest, lowest, average and the temperture differential of two peak temp will print in the screen.
 3) use a 2.8 TFT screen with touch capability
 4) use esp8266 based developtment board (D1 Mini).
-5) designed my own enclosure
+5) designed my own enclosure, the STL files can be found in 3D_Modeling folder.
 
-This code reveived huge help from Adafruit.
+This code reveived huge help from Adafruit. The code can be found in the AMG8833-TFT2.8-D1mini folder.
 
 The simple video demo can be fond in this Youtube link.
 
@@ -25,6 +25,7 @@ The actual enclosure and the circuit inside are shown in here:
 Repository Contents
 -------------------
 
+see files in each folder
 
 License Information
 -------------------

@@ -9,7 +9,7 @@ This project is a low cost thermal camera inspired by Ruiz Brothers (https://lea
 
 This code reveived huge help from Adafruit. The code can be found in the AMG8833-TFT2.8-D1mini folder.
 
-The simple video demo can be fond in this Youtube link.
+The simple video demo can be found in this Youtube link.(no link so far)
 
 The schematic and PCB are shown in here:
 

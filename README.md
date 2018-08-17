@@ -25,7 +25,7 @@ The actual enclosure and the circuit inside are shown in here:
 Repository Contents
 -------------------
 
-see files in each folder
+See files in each folder
 
 License Information
 -------------------
